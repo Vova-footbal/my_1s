@@ -1,0 +1,41 @@
+.head{
+    background-color: blue;
+    height: 150px;
+}
+.sidebar{
+    background-color: purple;
+    height: 500px;
+    margin-top: 15px;
+    width: 630px;
+    float: left;
+  
+}
+.sidebar1{
+    background-color: red;
+    height: 500px;
+    width: 620px;
+    float: right;
+    margin-top: 19px;
+   
+}
+.content{
+    background-color: sandybrown;
+    height: 740px;
+    width: 635px;
+    margin-top: 15px;        
+    margin-left: 640px;
+}
+.footer{
+    background-color: teal;
+    height: 300px;
+    margin-top: 15px;
+  
+}
+.z{
+    height: 740px;
+    width: 630px;
+}
+.x{
+    height: 740px;
+    width: 620px;
+}
