@@ -1,0 +1,55 @@
+body{
+    background: linear-gradient(60deg, rgba(225,245,0,1) 0%, rgba(19,124,222,1));
+}
+.a {
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    bottom: 380px;
+}
+h5 {
+    text-align: center;
+}
+.b {
+    background-color: lightskyblue;
+    height: 100px;
+    width: 150px;
+    transition: all 0.8s;
+    border-radius: 20px;
+    border-style: outset;
+    font-size: 15px;
+    overflow: hidden;
+    position: relative;
+    top: 200px;
+}
+.b:hover {
+    height: 500px;
+    width: 300px;
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
+.v{
+    height: 200px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 150px;
+}
+.f{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 150px;
+}
+p{
+    color: brown;
+}
+.z{
+    color: black;
+}
