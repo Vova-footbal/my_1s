@@ -1,0 +1,16 @@
+.k {
+    background-color: tomato;
+    color: blue;
+}
+
+img {
+    border: darkred inset 7px;
+    border-radius: 0px;
+    display: block;
+    margin: auto;
+
+}
+td {
+    background-color: darkviolet;
+    color: deeppink;
+}
