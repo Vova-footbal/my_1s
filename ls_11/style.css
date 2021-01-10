@@ -1,0 +1,12 @@
+
+   table {
+    width: 100%; 
+    background: red; 
+    color: black; 
+    border-style: double;
+   }
+   td, th {
+    background-color: blueviolet; 
+    padding: 5px; 
+   }
+  
