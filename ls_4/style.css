@@ -1,0 +1,13 @@
+body {
+    background-color: darkgrey;
+}
+h1 {
+    font-size: 100px;color: dodgerblue;
+}
+h2 {
+    font-size: 50px; color: goldenrod;
+}
+img{
+    border: 1px;
+    border-radius: 400px
+}
