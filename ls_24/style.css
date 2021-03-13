@@ -1,0 +1,1031 @@
+.header {
+    width: 100%;
+}
+.a{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    height: 200px;
+}
+.logo{
+    position: relative;
+    top: 10px;
+    right: 650px;
+}
+.help {
+    display: flex;
+    position: relative;
+    top: 50px; 
+}
+.a1 {
+    padding: 10px;
+}
+header {
+    width: 100%;
+    background-image: url(./img/pexels-photo-356056@1X.png) ;
+    height: 900px;
+    background-size: 100%;
+    position: relative;
+    bottom: 50px;
+}
+.t1{
+    position: relative;
+    top: 180px;
+    color: #FFFFFF;
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;   
+    text-align: center;
+    opacity: 1;
+}
+.t2{
+    color: #FFFFFF;
+    font-size: 20px;
+    position: relative;
+    top: 180px;
+    left: 100px;
+}
+.knopka{
+    position: relative;
+    top: 350px;
+    left: 100px;
+    display: block;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid white; 
+    font-size: 30px;
+    background: none;
+    width: 215px;
+    height: 50px;
+}
+.k{
+    position: relative;
+    background-color: #00897B;
+    width: 200px;
+    height: 50px;
+    top: 300px;
+    left: 400px;
+}
+.knopka2{
+    position: relative;
+    text-decoration: none;
+    left: 40px;
+    top: 15px;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+.main{
+    width: 500px;
+    height: 97px;
+    position: relative;
+    left: 700px;
+    top: 100px;
+}
+.text{
+    text-align: center;
+}
+.tri{
+    height: 200px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    top: 100px;
+    right: 707px;
+}
+.kar{
+    height: 70px;
+    width: 70px;
+    padding: 150px;
+    position: relative;
+    bottom: 170px;
+    left: 150px;
+}
+.b{
+    position: relative;
+    top: 30px;
+    right: 90px;
+    font-family: 'Open Sans', sans-serif;
+    color: #212121;
+    text-align: center;
+}
+.b1{
+    position: relative;
+    right: 180px;
+    top: 90px;
+    font-family: 'Open Sans', sans-serif;
+    color: #212121;
+    text-align: center;
+}
+.b2{
+    position: relative;
+    right: 140px;
+    top: 90px;
+    font-family: 'Open Sans', sans-serif;
+    color: #212121;
+    text-align: center;
+}
+.services{
+    width: 100%;
+    height: 1480px;
+    flex-wrap: wrap;
+    position: relative;
+    top: 550px;
+    background-color: #E4FDF9;
+}
+.tex{
+    text-align: center;
+    position: relative;
+    top: 150px;
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+}
+.tex1{
+    text-align: center;
+    position: relative;
+    top: 180px;
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+.file{
+    width: 100%;
+    height: 430px;
+    position: relative;
+    top: 332px;
+    display: flex;
+}
+.file1{
+    background-color: #00897B;
+    width: 350px;
+    height: 430px;
+    position: relative;
+    left: 350px;
+}
+.phone{
+    position: relative;
+    left: 147px;
+    top: 59px;
+}
+.tex3{
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    text-align: center;
+    top: 60px;
+}
+.tex4{
+    position: relative;
+    top: 70px;
+    left: 50px;
+    height: 90px;
+    width: 250px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.c{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid white; 
+    background: none;
+    width: 60px;
+    height: 160px;
+    position: relative;
+    left: 109px;
+    top: 50px;
+}
+.file2{
+    width: 350px;
+    height: 430px;
+    position: relative;
+    left: 380px;
+    background-color: #FFFFFF;
+}
+.file3{
+    width: 350px;
+    height: 430px;
+    position: relative;
+    left: 410px;
+    background-color: #FFFFFF;
+}
+.phone1{
+    position: relative;
+    left: 147px;
+    top: 59px;
+}
+.tex5{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    text-align: center;
+    top: 60px;
+}
+.tex6{
+    position: relative;
+    top: 70px;
+    left: 50px;
+    height: 90px;
+    width: 250px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.c1{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid black; 
+    background: none;
+    width: 60px;
+    height: 160px;
+    position: relative;
+    left: 109px;
+    top: 50px;
+    color: black;
+}
+.fiel5{
+    width: 100%;
+    height: 430px;
+    position: relative;
+    top: 332px;
+    display: flex;
+}
+.file4{
+    width: 350px;
+    height: 430px;
+    position: relative;
+    left: 350px;
+    top: 30px;
+    background-color: #FFFFFF;
+}
+.file6{
+    width: 350px;
+    height: 430px;
+    position: relative;
+    left: 380px;
+    top: 30px;
+    background-color: #FFFFFF;
+}
+.file7{
+    width: 350px;
+    height: 430px;
+    position: relative;
+    left: 410px;
+    top: 30px;
+    background-color: #FFFFFF;
+}
+.phone2{
+    position: relative;
+    left: 147px;
+    top: 59px;
+}
+.tex7{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    text-align: center;
+    top: 60px;
+}
+.tex8{
+    position: relative;
+    top: 70px;
+    left: 50px;
+    height: 90px;
+    width: 250px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.c2{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid black; 
+    background: none;
+    width: 60px;
+    height: 160px;
+    position: relative;
+    left: 109px;
+    top: 50px;
+    color: black;
+}
+.work{
+    width: 100%;
+    height: 1620px;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 480px;
+    flex-wrap: wrap;
+}
+.te{
+    position: relative;
+    top: 129px;
+    text-align: center;
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+}
+.te1{
+    height: 38px;
+    width: 600px;
+    position: relative;
+    top: 129px;
+    left: 646px;
+    text-align: center;
+    color: #212121;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+}
+.knopki{
+    position: relative;
+    align-items: center;
+    top: 211px;
+    width: 688px;
+    height: 56px;
+    left: 607px;
+    display: flex;
+}
+.v{ 
+    background-color: #00897B;
+    position: relative;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 31px;
+    bottom: 1px;
+}
+.d1{
+    position: relative;
+    left: 19px;
+    text-decoration: none;
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #00897B; 
+    font-size: 30px;
+    background: none;
+}
+.d2{
+    position: relative;
+    left: 30px;
+    text-decoration: none;
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #00897B; 
+    font-size: 30px;
+    background: none;
+}
+.d3{
+    position: relative;
+    left: 42px;
+    text-decoration: none;
+    color: #212121;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #00897B; 
+    font-size: 30px;
+    background: none;
+}
+.fotki{
+    display: flex;
+    width: 80%;
+    height: 372px;
+    position: relative;
+    top: 290px;
+    left: 320px;
+}
+.l{
+    background-image: url(./img/Layer\ 7@1X.png) ;
+    width: 371px;
+    height: 371px;
+    text-align: center;
+    position: relative;
+}
+.f{
+    padding: 14px;
+    height: 371px;
+    width: 371px;
+    position: relative;
+    left: 28px;
+}
+.fotki2{
+    display: flex;
+    width: 80%;
+    height: 372px;
+    position: relative;
+    top: 318px;
+    left: 320px;
+}
+.f2{
+    padding: 14px;
+    height: 371px;
+    width: 371px;
+}
+.knopochka{
+    background-color: #00897B;
+    height: 71px;
+    width: 200px;
+    position: relative;
+    top: 500px;
+    left: 46%;
+    font-size: 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.pricing{
+    width: 1887px;
+    height: 1140px;
+    position: relative;
+    top: 550px;
+    background-color: #FFFFFF;
+}
+.bu{
+    position: relative;
+    text-align: center;
+    top: 127px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+.bu1{
+    position: relative;
+    left: 690px;
+    top: 180px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    width: 620px;
+}
+.dolor{
+    position: relative;
+    top: 300px;
+    display: flex;
+    width: 80%;
+    left: 130px;
+}
+.Free{
+    width: 371px;
+    height: 668px;  
+    display: block;
+    background-color: #FFFFFF;
+    position: relative;
+    left: 180px;
+}
+.schapka{
+    background-color: #3949AB;
+    width: 371px;
+    height: 210px;
+    border-radius: 20% 0%;
+}
+.nazv{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.cena{
+    color: #FFFFFF;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.trail{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.projekt{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.php{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.suport{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.kn{
+    height: 61px;
+    width: 181px;
+    position: relative;
+    left: 94px;
+    border: 3px solid black;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}
+.Basic{
+    width: 371px;
+    height: 668px;  
+    display: block;
+    background-color: #FFFFFF;
+    position: relative;
+    left: 238px;
+}
+.schapka1{
+    background-color: #3949AB;
+    width: 371px;
+    height: 210px;
+    border-radius: 20% 20%;
+}
+.nazv1{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.cena1{
+    color: #FFFFFF;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.trail1{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.projekt1{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.php1{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.suport1{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.kn1{
+    height: 61px;
+    width: 181px;
+    position: relative;
+    left: 94px;
+    background-color: #00897b;
+    font-size: 40px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.Ultimates{
+    width: 371px;
+    height: 668px;  
+    display: block;
+    background-color: #FFFFFF;
+    position: relative;
+    left: 296px;
+}
+.schapka2{
+    background-color: #3949AB;
+    width: 371px;
+    height: 210px;
+    border-radius: 20% 0%;
+}
+.nazv2{
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.cena2{
+    color: #FFFFFF;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.trail2{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.projekt2{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.php2{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.suport2{
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.kn2{
+    height: 61px;
+    width: 181px;
+    position: relative;
+    left: 94px;
+    border: 3px solid black;
+    font-size: 40px;
+    text-decoration: none;
+    color: black;
+}
+.member{
+    width: 100%;
+    height: 1096px;
+    position: relative;
+    top: 550px;
+}
+.bukva{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    top: 123px;
+    font-size: 45px;
+}
+.bukva1{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    top: 162px;
+    font-size: 15px;
+    width: 620px;
+    left: 690px;
+}
+.M{
+    display: flex;
+    width: 80%;
+    height: 494px;
+    position: relative;
+    left: 230px;
+}
+.wan{
+    width: 373px;
+    height: 494px;
+    position: relative;
+    top: 250px;
+    left: 150px;
+}
+.kar1{
+    height: 322px;
+    width: 373px;
+    border-radius: 2% 2% 2% 2%;
+}
+.bukva2{
+    text-align: center;
+    color: #212121;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.buk{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.sotseti{
+    display: flex;
+    position: relative;
+    left: 65px;
+}
+.Facebook{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Twitter{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Chat{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Inet{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.two{
+    width: 373px;
+    height: 494px;
+    position: relative;
+    top: 250px;
+    left: 180px;
+}
+.kar2{
+    height: 322px;
+    width: 373px;
+    border-radius: 2% 2% 2% 2%;
+}
+.bukva3{
+    text-align: center;
+    color: #212121;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.buk1{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.sotseti1{
+    display: flex;
+    position: relative;
+    left: 65px;
+}
+.Facebook1{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Twitter1{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Chat1{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Inet1{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.three{
+    width: 373px;
+    height: 494px;
+    position: relative;
+    top: 250px;
+    left: 210px;
+}
+.kar3{
+    height: 322px;
+    width: 373px;
+    border-radius: 2% 2% 2% 2%;
+}
+.bukva4{
+    text-align: center;
+    color: #212121;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.buk2{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+.sotseti2{
+    display: flex;
+    position: relative;
+    left: 65px;
+}
+.Facebook2{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Twitter2{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Chat2{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.Inet2{
+    width: 51px;
+    height: 51px;
+    padding: 5px;
+}
+.tochki{
+    display: flex;
+    position: relative;
+    top: 350px;
+    left: 930px;
+    width: 20%;
+}
+.list{
+    width: 16px;
+    height: 16px;
+    border-radius: 50% 50% 50% 50%;
+    background-color: #3949AB;
+}
+.list1{
+    background-color: #00897B;
+    width: 16px;
+    height: 16px;
+    border-radius: 50% 50% 50% 50%;
+    position: relative;
+    left: 5px;
+}
+.list2{
+    background-color: #00897B;
+    width: 16px;
+    height: 16px;
+    border-radius: 50% 50% 50% 50%;
+    position: relative;
+    left: 10px;
+}
+.blog{
+    width: 100%;
+    height: 2300px;
+    position: relative;
+    top: 600px;
+}
+.h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+.h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    position: relative;
+    width: 620px;
+    top: 150px;
+    left: 690px;
+}
+.comp{
+    display: flex;
+    position: relative;
+    width: 90%;
+    height: 408px;
+    left: 101px;
+    top: 350px;
+}
+.monitor{
+    width: 1062px;
+    height: 408px;
+}
+.proc{
+    color: #00897B;
+    position: relative;
+    right: 110px;
+    font-size: 23px;
+    width: 300px;
+    font-family: 'Open Sans', sans-serif;
+}
+.kai{
+    width: 17px;
+    height: 17px;
+    position: relative;
+    top: 100px;
+    right: 350px;
+}
+.poz{
+    font-size: 17px;
+    position: relative;
+    top: 70px;
+    right: 340px;
+    font-family: 'Open Sans', sans-serif;
+}
+.kai1{
+    position: relative;
+    top: 100px;
+    width: 17px;
+    height: 17px;
+    right: 280px;
+}
+.poz1{
+    font-size: 17px;
+    position: relative;
+    top: 70px;
+    right: 260px;
+    font-family: 'Open Sans', sans-serif;
+}
+.poz2{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    width: 448px;
+    position: relative;
+    top: 160px;
+    right: 580px;
+}
+.comp1{
+    display: flex;
+    position: relative;
+    width: 90%;
+    height: 408px;
+    left: 101px;
+    top: 350px;
+}
+.monitor1{
+    width: 571px;
+    height: 401px;
+    position: relative;
+    left: 680px;
+}
+.proc1{
+    color: #212121;
+    position: relative;
+    right: 570px;
+    font-size: 23px;
+    width: 300px;
+    font-family: 'Open Sans', sans-serif;
+}
+.kai2{
+    width: 17px;
+    height: 17px;
+    position: relative;
+    top: 100px;
+    right: 870px;
+}
+.poz3{
+    font-size: 17px;
+    position: relative;
+    top: 70px;
+    right: 850px;
+    font-family: 'Open Sans', sans-serif;
+}
+.kai3{
+    position: relative;
+    top: 100px;
+    width: 17px;
+    height: 17px;
+    right: 780px;
+}
+.poz4{
+    font-size: 17px;
+    position: relative;
+    top: 70px;
+    right: 760px;
+    font-family: 'Open Sans', sans-serif;
+}
+.poz5{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    width: 448px;
+    position: relative;
+    top: 160px;
+    right: 1106px;
+}
+.comp2{
+    display: flex;
+    position: relative;
+    width: 90%;
+    height: 408px;
+    left: 101px;
+    top: 350px;
+}
+.monitor2{
+    width: 1062px;
+    height: 408px;
+}
+.proc3{
+    color: #00897B;
+    position: relative;
+    right: 110px;
+    font-size: 23px;
+    width: 300px;
+    font-family: 'Open Sans', sans-serif;
+}
+.kai4{
+    width: 17px;
+    height: 17px;
+    position: relative;
+    top: 100px;
+    right: 350px;
+}
+.poz6{
+    font-size: 17px;
+    position: relative;
+    top: 70px;
+    right: 340px;
+    font-family: 'Open Sans', sans-serif;
+}
+.kai5{
+    position: relative;
+    top: 100px;
+    width: 17px;
+    height: 17px;
+    right: 280px;
+}
+.poz7{
+    font-size: 17px;
+    position: relative;
+    top: 70px;
+    right: 260px;
+    font-family: 'Open Sans', sans-serif;
+}
+.poz8{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    width: 448px;
+    position: relative;
+    top: 160px;
+    right: 580px;
+}
+.kon{
+    background-color: #00897B;
+    width: 221px;
+    height: 71px;
+    position: relative;
+    top: 550px;
+    font-size: 45px;
+    color: #212121;
+    left: 833px;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: #FFFFFF;
+}
