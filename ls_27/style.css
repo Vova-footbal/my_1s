@@ -1,0 +1,29 @@
+* {
+    margin: 0 auto;
+}
+.a{
+    width: 100%;
+}
+.b{
+    width: 1756px;
+    height: 320px;
+    background-color: blue;
+    margin-left: 114px;
+}
+.a1{
+    width: 95%;
+    display: flex;
+    margin-top: 21px;
+    margin-left: 96px;
+}
+.b1{
+    width: 306px;
+    height: 638px;
+    background-color: red;
+}
+.b2{
+    background-color: lightgreen;
+    width: 1421px;
+    height: 638px;
+    margin-right: 37px;
+}
