@@ -1,0 +1,368 @@
+.menu{
+    width: 100%;
+    height: 100px;
+    overflow: hidden;
+}
+.menu1{
+    height: 65px;
+    position: relative;
+    top: 35px;
+    left: 90px;
+    width: 90%;
+    display: flex;
+}
+.account{
+    width: 200px;
+    height: 65px;
+    display: flex;
+}
+.ikon{
+    position: relative;
+    top: 24px;
+}
+.t{
+    position: relative;
+    left: 50px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.setting{
+    width: 200px;
+    height: 65px;
+    display: flex;
+}
+.ikon1{
+    position: relative;
+    top: 24px;
+}
+.t1{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    position: relative;
+    left: 20px;
+}
+.messages{
+    width: 200px;
+    height: 65px;
+}
+.ikon2{
+    position: relative;
+    top: 24px;
+}
+.t2{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    position: relative;
+    left: 40px;
+    bottom: 17px;
+}
+.red_kr{
+    background-color: red;
+    border-radius: 100%;
+    width: 19px;
+    height: 19px;
+    position: relative;
+    right: 40px;
+}
+.t3{
+    color: white;
+    text-align: center;
+    bottom: 20px;
+    position: relative;
+}
+.screach{
+    width: 146px;
+    height: 34px;
+    position: relative;
+    left: 800px;
+    top: 16px;
+}
+.pole{
+    font-family: 'Lato', sans-serif;
+    width: 146px;
+    height: 34px;
+    border-radius: 5%;
+    border: 1px solid;
+}
+.lupa{
+    position: relative;
+    left: 840px;
+    top: 24px;
+}
+.user_login{
+    width: 100%;
+    height: 430px;
+    overflow: hidden;
+}
+.sing_in{
+    height: 370px;
+    width: 301px;
+    position: relative;
+    left: 150px;
+    top: 40px;
+}
+.t4{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.pole1{
+    width: 241px;
+    height: 43px;
+    border: 3px green solid;
+    border-radius: 8%;
+    position: relative;
+    left: 30px;
+}
+.ikon4{
+    position: relative;
+    bottom: 32px;
+    left: 240px;
+}
+.pole2{
+    width: 241px;
+    height: 43px;
+    border: 3px #BEC3C7 solid;
+    border-radius: 8%;
+    position: relative;
+    left: 30px;
+}
+.ikon5{
+    position: relative;
+    bottom: 32px;
+    left: 240px;
+}
+.kn{
+    border-radius: 8%;
+    text-decoration: none;
+    background-color: #34495E;
+    border: 15px solid #34495E;
+    color: white;
+    position: relative;
+    left: 97px;
+    top: 34px;
+}   
+.t5{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #2D3E50;
+    text-decoration: none;
+    position: relative;
+    top: 80px;
+    right: 20px;
+}
+.twitter{
+    background-color: #2DAAE4;
+    width: 100%;
+    height: 51px;
+    position: relative;
+    top: 115px;
+}
+.ikon6{
+    position: relative;
+    left: 64px;
+    top: 15px;
+    color: white;
+}
+.t6{
+    position: relative;
+    bottom: 25px;
+    left: 100px;
+    color: white;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.EMAIL_NEWSLETTER{
+    width: 301px;
+    height: 229px;
+    position: relative;
+    left: 700px;
+    bottom: 347px;
+}
+.t7{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+.pole3{
+    width: 241px;
+    height: 43px;
+    border: 3px green solid;
+    border-radius: 8%;
+    position: relative;
+    left: 30px;
+}
+.ikon7{
+    position: relative;
+    bottom: 32px;
+    left: 240px;
+}
+.kn1{
+    border-radius: 8%;
+    text-decoration: none;
+    background-color: #34495E;
+    border: 15px solid #34495E;
+    color: white;
+    position: relative;
+    left: 97px;
+    top: 34px;
+}   
+.soc_set{
+    width: 303px;
+    height: 113px;
+    display: flex;
+    position: relative;
+    left: 700px;
+    bottom: 318px;
+}
+.fb{
+    background-color: #3468AF;
+    border-radius: 1% 0% 0% 1%;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    width: 76px;
+    height: 111px;
+}
+.fb1{
+    background-color: blue;
+    position: relative;
+    top: 31px ;
+    height: 40px;
+}
+.t8{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.tw{
+    background-color: #4FC4F6;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    width: 76px;
+    height: 111px;
+}
+.tw1{
+    background-color: #3694bd;
+    position: relative;
+    top: 31px ;
+    height: 40px;
+}
+.t9{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.google{
+    background-color: #E64C65;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    width: 76px;
+    height: 111px;
+}
+.google1{
+    background-color: #a5374a;
+    position: relative;
+    top: 31px ;
+    height: 40px;
+}
+.t10{
+    color: white;
+    position: relative;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.mail{
+    background-color: #334A5C;
+    border-radius: 1% 0% 0% 1%;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    width: 76px;
+    height: 111px;
+}
+.mail1{
+    background-color: #253744;
+    position: relative;
+    top: 31px ;
+    height: 40px;
+}
+.t11{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.profil{
+    width: 302px;
+    height: 370px;
+    position: relative;
+    bottom: 682px;
+    left: 1200px;
+}
+.div{
+    background-color: #1BBC9B;
+    height: 195px;
+    width: 100%;
+}
+.kr{
+    position: relative;
+    background-color: white;
+    width: 80px;
+    height: 80px;
+    border-radius: 4px solid #474d52;
+    border-radius: 100%;
+    left: 112px;
+    top: 30px;
+}
+.t12{
+    position: relative;
+    top: 30px;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+}
+.t13{
+    position: relative;
+    top: 20px;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+}
+.div1{
+    width: 100%;
+    height: 47px;
+    display: flex;
+}
+.t14{
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+.t15{
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    position: relative;
+    left: 20px;
+}
+.t16{
+    position: relative;
+    left: 40px;
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+}
+.div2{
+    width: 100%;
+    height: 128px;
+}
+.t17{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    width: 270px;
+    text-align: center;
+}
